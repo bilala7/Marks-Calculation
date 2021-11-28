@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Marks 02 : "+mk02);
         System.out.println("Marks 03 : "+mk03);
         System.out.println("Total : "+total);
+        System.out.println();
 
     }
 
